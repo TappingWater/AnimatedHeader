@@ -20,7 +20,7 @@ const Header = () => {
   const desktopTabStyling =
     "bg-black h-[25px] w-[100px] rounded-sm text-center text-white hover:cursor-pointer";
   const mobileTabStyling =
-    "bg-black h-[25px] w-[80%] rounded-sm text-white hover:cursor-pointer z-100 pl-2";
+    "bg-black h-[25px] w-[90px] rounded-sm text-white hover:cursor-pointer z-100 pl-2";
   const logoStyling = "w-[50px] h-[50px] bg-black";
   const sideBarStyling =
     "fixed w-[30%] ml-[70%] h-[100vh] mt-[120px] flex flex-col items-center space-y-[20px] pt-4 bg-blue-300 md:hidden";
