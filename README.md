@@ -3,7 +3,7 @@ Responsive header component designed to demonstrate the use of framer motion and
 to create an animated header in Next.JS 13 using the experimental app directory.
 
 ## Technology
-Framework: Next.JS 13
+Framework: Next.JS 13<br>
 Libraries: 
 - Framer motion: For animations
 - Tailwind CSS: For responsive styling
